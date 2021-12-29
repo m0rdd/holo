@@ -1,0 +1,181 @@
+html{
+ font-family: 'Montserrat', sans-serif;
+ background:linear-gradient(360deg, rgb(193, 199, 202) 0%, rgba(255,255,255,1) 99%);
+}
+h1,h2{
+    font-size:50px;
+}
+body{
+    text-align: center;
+   
+}
+ol{
+    text-align: left;
+}
+
+.front{
+    background-color: #001D7A;
+    left: 0px; top:0px;
+    position:fixed;
+    width:100%; height: 10px;
+    text-align: right;
+    color: aliceblue ;
+    z-index: 10;
+    padding: 30px;
+    box-shadow:2px 2px 4px #000000;
+}
+
+
+.top{
+    background-color: #003AFA;
+    border-radius: 15px;
+    padding: 15px;
+    color: aliceblue;
+    position: relative;
+    right: 35px;
+    box-shadow: 2px 2px 4px #000000;
+}
+
+#inicio{
+    background-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#003AFA;
+    border-radius: 15px;
+    padding: 15px;
+    color:aliceblue;
+    position: fixed;
+    left: 25px; top:15px;
+    
+
+}
+.comenzar{
+    background-color:aliceblue;
+    
+    border-radius: 15px;
+    border-color:2px aliceblue;
+    padding: 15px;
+    color: black;
+    position: relative;
+    bottom: 200px;
+    
+}
+.chart{
+     
+    background-image: url(https://www.photohdx.com/images/2019/08/stock-chart-price-going-up.jpg);
+    width: 100%; height: 700px;
+    position: relative;
+    background-position: center;
+    z-index: -1;
+    top:-100px;
+}
+.div-1{
+    color: aliceblue;
+    position: relative;
+    top: 150px;
+}
+
+.regla{
+    box-shadow: 5px 5px 4px rgb(133, 133, 133);
+    border-radius: 20px;
+    background-color:#001D7A;
+    color:aliceblue;
+    position: relative;
+    padding: 20px;
+    height: 350px; width: 350px;
+}
+.texto-regla{
+    justify-content: center;
+    font-size:15px;
+}
+.background-chart{
+    border-radius: 20px;
+    background-color: aliceblue;
+    position:relative;
+    height: 300px; width: 348px;
+    left:0px; top:8px;
+}
+.greencandle1{
+    background-color: rgb(23, 185, 23);
+    position: relative;
+    height: 50px; width: 20px;
+    top: 215px;
+    left: 35px;
+    
+}
+.mechagreen1{
+    background-color: rgb(23, 185, 23);
+    position: relative;
+    height: 70px; width: 4px;
+    top:175px;
+    left: 43px;
+}
+.redcandle1{
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    height: 55px; width: 20px;
+    top: 95px;
+    left: 60px;
+    
+}
+.greencandle2{
+    background-color: rgb(23, 185, 23);
+    position: relative;
+    height: 70px; width: 20px;
+    top: 25px;
+    left: 85px;
+    
+}
+.greencandle3{
+    background-color: rgb(23, 185, 23);
+    position: relative;
+    height: 40px; width: 20px;
+    top: -82px;
+    left: 112px;
+    
+}
+.mechagreen3{
+    background-color: rgb(23, 185, 23);
+    position: relative;
+    height: 40px; width: 4px;
+    top:-100px;
+    left: 120px;
+}
+.greencandle4{
+    background-color: rgb(23, 185, 23);
+    position: relative;
+    height: 40px; width: 20px;
+    top: -202px;
+    left: 136px;
+    
+}
+.greencandle5{
+    background-color: rgb(23, 185, 23);
+    position: relative;
+    height: 35px; width: 20px;
+    top: -278px;
+    left: 159px;
+}
+.greencandle6{
+    background-color: rgb(23, 185, 23);
+    position: relative;
+    height: 65px; width: 20px;
+    top: -375px;
+    left: 182px;
+}
+.redcandle2{
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    height: 25px; width: 20px;
+    top: -460px;
+    left: 210px;
+    
+}
+.mechared2{
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    height: 60px; width: 4px;
+    top:-490px;
+    left: 218px;
+}
+

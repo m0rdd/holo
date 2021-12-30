@@ -76,7 +76,7 @@ ol{
 }
 
 .regla{
-    box-shadow: 5px 5px 4px rgb(133, 133, 133);
+    box-shadow: 5px 5px 10px rgb(133, 133, 133);
     border-radius: 20px;
     background-color:#001D7A;
     color:aliceblue;
